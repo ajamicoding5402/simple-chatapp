@@ -1,0 +1,35 @@
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #aaaaaa;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Roboto;
+}
+
+#messages {
+    width: 100%;
+    height: 95%;
+    background-color: rgb(159, 255, 255);
+}
+
+#message-input {
+    width: 80%;
+    height:4%;
+    background-color: rgb(29, 67, 124);
+    border-radius: 5px;
+    border: 0px;
+    color: rgb(255, 255, 255);
+}
+
+#submit-button {
+    display: none;
+}
+
+#message {
+    width: 95%;
+    background-color: blue;
+    text-align: left;
+    font-size: 13px;
+}
